@@ -11,3 +11,9 @@ I'm a **FullStack developer** using Javascript with Node.js, React.js and Next.j
 1. Instalación de Node.js y Yarn
 1. Primeros pasos con VS Code
 > Esto va a estar en http://localhost:8080/climay/index.html
+
+| Comandos | Descripción |
+|----------|-------------|
+| ls       | Lista el directorio  actual o dado uno en particular|
+| pwd      | Imprime el la dirección actual|
+|----------|-------------|
